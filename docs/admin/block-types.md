@@ -1,7 +1,3 @@
----
-title: Block Types
----
-
 # Block Types
 
 Block Type  |  Description

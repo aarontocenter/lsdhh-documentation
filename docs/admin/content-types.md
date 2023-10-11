@@ -1,7 +1,3 @@
----
-title: Content Types
----
-
 # Content Types
 
 Content Type  |  Description

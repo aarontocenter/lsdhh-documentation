@@ -1,6 +1,2 @@
----
-title: Views
----
-
 # Views
 

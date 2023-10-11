@@ -1,7 +1,3 @@
----
-title: Media Types
----
-
 # Media Types
 
 Media Type  |  Description

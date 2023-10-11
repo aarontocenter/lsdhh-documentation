@@ -1,7 +1,3 @@
----
-title: Paragraph Types
----
-
 # Paragraph Types
 
 Paragraph Type  |  Description

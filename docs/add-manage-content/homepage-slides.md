@@ -1,7 +1,3 @@
----
-title: Homepage Slides
----
-
 # Homepage Slides
 
 There are two content types that handle home page slides:   
