@@ -4,7 +4,7 @@ title: Content Types
 
 # Content Types
 
-Component  |  Description
+Content Type  |  Description
 ---------- | -------------
 Announcement          | Announcements for the home page of the LSDHH website. These are the large images/text at the top of the page displayed in a scroller. Do not appear on state pages.
 Article               | Not used on LSDHH site, from what I'm guessing.
