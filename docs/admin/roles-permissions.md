@@ -47,4 +47,4 @@ These roles can log in and submit content that is immediately published. Content
 
 ## Publishing Permissions Diagram
 
-![block image 1](../../img/lsdhh-1.png)
+![block image 1](../img/lsdhh-1.png)
