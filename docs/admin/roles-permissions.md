@@ -22,6 +22,8 @@ Anyone who registers for the Ask Sandy site using the online registration form i
 
 ## Content Management Roles
 
+The content management roles can view content awaiting moderation and can approve / publish content. These roles can also publish content without moderation. 
+
 - Service Admin: Not sure if we're using this role anymore. Nick is checking.
 
 - Library Editor (NPL Staff): Can manage certain site configuration (that might be content). 
