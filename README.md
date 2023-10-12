@@ -10,7 +10,18 @@ View the LSDHH Documentation guide on Github.io [LSDHH Documentation](https://na
 
 ## Contribute to LSDHH Documentation
 
-To add or edit documentation: 
+### Clone the Repo, Make Changes on Branches, Submit Pull Requests
+
+1. Clone the repo.
+1. Create a branch.
+1. Make changes and commit to your branch.
+1. Push changes to GitHub. 
+1. Create a pull request. 
+1. Assign to someone for review. 
+1. Changes will be reviewed and approved or rejected.
+
+### Edit on GitHub and Submit Pull Requests
+
 1. Browse the repo and find a document.
 1. Click the "edit" button for the document. 
 1. Fork the repository. 
@@ -19,4 +30,5 @@ To add or edit documentation:
 1. Write a commit message. 
 1. Click "propose changes" button. 
 1. Click the "create pull request" button. 
+1. Assign to someone for review. 
 1. Changes will be reviewed and approved or rejected. 
