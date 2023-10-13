@@ -57,7 +57,6 @@ markdown_extensions:
 nav:
   - Overview: index.md
   - Add / Manage Content: 
-      - add-manage-content/index.md
       - add-manage-content/event.md
       - add-manage-content/helpful-links.md
       - add-manage-content/homepage-slides.md
@@ -66,7 +65,6 @@ nav:
       - add-manage-content/licensure.md
       - add-manage-content/material.md
   - Admin:
-      - admin/index.md
       - admin/block-types.md
       - admin/conditional-fields.md
       - admin/content-mod-workflow.md
