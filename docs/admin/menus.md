@@ -14,7 +14,7 @@ Helpful Links-Sub-Help-Page	        | Horizontal Menu used on the Helpful Links 
 Library -> Mega menu	            | ?	
 Main menu	                        | The Main menu is used on LSDHH as the Mobile Menu and to show all sections of the site.	
 Management	                        | The Management menu contains links for administrative tasks.	
-Mega Menu	                        | ?	
+Mega Menu	                        | The main menu for the LSDHH website (library, resources, connect, discover).
 Navigation	                        | The Navigation menu contains links intended for site visitors. Links are added to the Navigation menu automatically by some modules.	
 Resources Mega Menu		            | ?
 Sub-Menu Connect	                | ?	
