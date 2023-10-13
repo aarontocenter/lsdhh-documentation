@@ -55,31 +55,32 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Introduction: index.md
-  - Add / Manage Content:
-      - index.md
-      - event.md
-      - helpful-links.md
-      - homepage-slides.md
-      - job-posting.md
-      - knowledge-base-item.md
-      - licensure.md
-      - material.md
+  - Overview: index.md
+  - Add / Manage Content: 
+      - add-manage-content/index.md
+      - add-manage-content/event.md
+      - add-manage-content/helpful-links.md
+      - add-manage-content/homepage-slides.md
+      - add-manage-content/job-posting.md
+      - add-manage-content/knowledge-base-item.md
+      - add-manage-content/licensure.md
+      - add-manage-content/material.md
   - Admin:
-      - block-types.md
-      - conditional-fields.md
-      - content-mod-workflow.md
-      - content-types.md
-      - feed-types.md
-      - flags.md
-      - media-types.md
-      - menus.md
-      - message-templates.md
-      - paragraph-types.md
-      - roles-permissions.md
-      - taxonomies.md
-      - views.md
-      - webforms.md
+      - admin/index.md
+      - admin/block-types.md
+      - admin/conditional-fields.md
+      - admin/content-mod-workflow.md
+      - admin/content-types.md
+      - admin/feed-types.md
+      - admin/flags.md
+      - admin/media-types.md
+      - admin/menus.md
+      - admin/message-templates.md
+      - admin/paragraph-types.md
+      - admin/roles-permissions.md
+      - admin/taxonomies.md
+      - admin/views.md
+      - admin/webforms.md
 
 copyright:
   c 2023 Metropolitan Government of Nashville and Davidson County, GNU GENERAL PUBLIC LICENSE.
