@@ -53,49 +53,33 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
-# # Page tree
-# nav:
-#   - Introduction: index.md
-#   - Add Events:
-#       - add-events/title.md
-#       - add-events/date-time.md
-#       - add-events/recurrence-pattern.md
-#       - add-events/recurrence.md
-#       - add-events/description.md
-#       - add-events/cost.md
-#       - add-events/event-url.md
-#       - add-events/image.md
-#       - add-events/location.md
-#       - add-events/contact.md
-#       - add-events/topical-areas.md
-#       - add-events/series.md
-#       - add-events/public.md
-#   - Image Library:
-#       - image-library/series-logos.md
-#       - image-library/systemwide-images.md
-#       - image-library/wishing-chair-image-library.md
-#   - Using Images:
-#       - using-images/finding-images.md
-#       - using-images/image-guidelines.md
-#   - Orientation:
-#       - orientation/add-an-event.md
-#       - orientation/copy-event.md
-#       - orientation/edit-delete-event.md
-#       - orientation/get-to-bedework.md
-#   - Linking:
-#       - linking/custom.md
-#       - linking/address-bar.md
-#       - linking/generate-export-files.md
-#   - Admin:
-#       - admin/approving-events.md
-#       - admin/add-series.md
-#       - admin/cancel.md
-#       - admin/passwords.md
-#       - admin/reindex.md
-#       - admin/notifications.md
-#       - admin/theming.md
-#       - admin/training.md
-#       - admin/troubleshooting.md
-#       - admin/pixie-dust.md
+# Page tree
+nav:
+  - Introduction: index.md
+  - Add / Manage Content:
+      - index.md
+      - event.md
+      - helpful-links.md
+      - homepage-slides.md
+      - job-posting.md
+      - knowledge-base-item.md
+      - licensure.md
+      - material.md
+  - Admin:
+      - block-types.md
+      - conditional-fields.md
+      - content-mod-workflow.md
+      - content-types.md
+      - feed-types.md
+      - flags.md
+      - media-types.md
+      - menus.md
+      - message-templates.md
+      - paragraph-types.md
+      - roles-permissions.md
+      - taxonomies.md
+      - views.md
+      - webforms.md
+
 copyright:
   c 2023 Metropolitan Government of Nashville and Davidson County, GNU GENERAL PUBLIC LICENSE.
