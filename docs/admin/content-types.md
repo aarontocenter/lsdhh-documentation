@@ -15,7 +15,7 @@ Knowledge Base Item   | Where do these go?
 Licensure	          | Licensure by state for interpreters and transliterators. This isn't in the Content menu. Not sure where this content is created and used. 
 Material	          | Seems related to the library catalog, but I can't tell what these are or where they go. Also, need more info on fields because summary is used twice and there's a feed description field. I'm not sure what those are all for. 
 Page	              | Use basic pages for your static content, such as an 'About us' page. Page is not listed in the Content menu. Not sure where those are created and by whom. 
-Resource	          | Create a Resource listing to be included in the National Resource Website. Resources are tagged with categories. I assume these aren't limited to state sites? 
+Resource	          | Create a Resource listing to be included in the National Resource Website. Resources are tagged with categories.  
 Site Wide Alert	      | Site Wide Alert links to notify of location closures, etc. Where are these displayed? Is the same alert displayed on all pages, even state pages? Can you show different alerts on state pages vs the LSDHH home page? 
 Splash	              | Use splash content for pages that should have a minimal theme. this wasn't available in the Content menu. Not sure where these are created and used.  
 Webform	              | Create a new form or questionnaire accessible to users. Submission results and statistics are recorded and accessible to privileged users. Only available to site admin. 

@@ -7,7 +7,7 @@
 1. Log in to the site. After logging in, you'll see a list of actions you can perform.  
 ![block image 1](../img/lsdhh-4.jpg)  
 
-1. Select "add a resource to the website."  
+1. Select "Add a Resource to the Website."  
 
 1. Fill out the form. 
 
@@ -35,7 +35,7 @@ Info below highlights unique parts of form fields only.
 
 1. Main Info > Organization / Business: This field has a special function to reduce duplicates. Start typing a word and there's a dialog box that lists possible duplicate content. 
 
-1. Location Type: 
+1. Event Location > Location Type: 
     1. The location type determines what flag shows up next to an event. There's a custom module that affects how the form works (which things are required or not). 
     1. Selecting "physical" is what makes a map be displayed on a resource page. 
     1. Physical: If physical, required to give a state. Can also add mailing address. 
@@ -43,9 +43,9 @@ Info below highlights unique parts of form fields only.
     1. National: If national, state is not required. 
     1. All: No state is required.  
 
-1. County: County is there because some resources in TN are only available in certain counties. They have future plans to allow users to look for resources within a certin proximity to a county. 
+1. Event Location > County: County is there because some resources in TN are only available in certain counties. They have future plans to allow users to look for resources within a certin proximity to a county. 
 
-1. Region: Currently only regions in TN. 
+1. Event Location > Region: Currently only regions in TN. 
 
 1. Convert to Profile: This makes a resource node take on the appearance of a profile page. Sandy wanted simple resources to become their own website. So, instead of looking and acting like all other resource pages, the resource would end up with a new theme and new functionality (kind of like making a Facebook page). Once you convert a resource to a profile you cannot change it back. 
 

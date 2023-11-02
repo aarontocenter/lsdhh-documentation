@@ -36,6 +36,7 @@ Edit the site and approve content.
     - View webform submissions. 
 
 - State Resource Admin (NOT NPL): The person in the state that owns their state page and approves content. 
+    - You must create content and get content approved by an admin or another state admin before you can be elevated to state admin.
 
 ## Approval Bypass Roles
 
