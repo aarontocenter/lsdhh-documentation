@@ -1,8 +1,6 @@
-# Resource
+# Add a Resource  
 
-## Add a Resource  
-
-### Create Resource and Submit for Review
+## Create Resource and Submit for Review
 
 1. Log in to the site. After logging in, you'll see a list of actions you can perform.  
 ![block image 1](../img/lsdhh-4.jpg)  
@@ -16,7 +14,7 @@
     1. Save as Draft: Drafts are accessible via the user's profile page. There's a tab for "your content" which lists all content you've created. Click edit to resume working on a draft. 
     1. Submit for Approval: Clicking sumbit for approval puts the resource in an approval state, sends a message to the state administrator, and drops a message in the admin's message center.  
 
-### Review and Make Live
+## Review and Make Live
 
 1. Log in to the site as a state admin. Dashboard has additional tab for "state admin." Admins also see which states they administer. 
 
@@ -53,30 +51,3 @@ Info below highlights unique parts of form fields only.
     1. Set the state of ownership, like which state admins can manage the resource. 
     1. Authorization signature is not necessarily the person who is adding the resource. It refers to the person who is in charge of getting the resource added. For example, an intern might add the resource for Sandy (boss), but Sandy is the authorizing person. This allows Sandy to easily claim the resource later. 
 
-## Claiming Resources
-
-There's a system of "claiming" resources. This isn't like Wikipedia where every logged in user can edit content. You have to be an owner of the resource to edit it. 
-
-1. If you're the authorized signature on a resource, you can claim ownership and immediately take ownership of a resource.
-
-1. If you're not the authorized signature on a resource, you can claim a resource, but you don't take ownership immediately. Your request goes to an approval process and must be approved by an admin. 
-
-## Locked Resources
-
-In order to avoid collisions where two people are editing the same resource at the same time, resources become locked when the creator is editing. An admin can break the lock. Content editor can also break the lock. Lock expires after 15 minutes. 
-
-## Message Center
-
-Users have a message center tab on their profile page. This is a complex custom feature that replicate messages being sent to state admins by email. Users can define messaging preferences: 
-- Get emails as they're sent.
-- Get emails in a digest format each day or week.
-
-Messages have links to view or approve content or message the user who submitted the content. 
-
-State admins can see the entire history of who has updated the resource node. They can go into any point in the history and email the owner of the node. 
-
-A tab /button will be added to the state admin profile to "message a user" so they do not have to find a user in the message history. 
-
-## Additional Notes
-
-- Expand all button on the "create resource" form is a special feature built with JavaScript. To "exapnd all" had to touch every part of the form which wasn't posssible without the custom JavaScript.
