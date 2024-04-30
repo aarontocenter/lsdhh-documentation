@@ -1,8 +1,4 @@
-# Moderation
-
-## Additional Notes
-
-- Expand all button on the "create resource" form is a special feature built with JavaScript. To "exapnd all" had to touch every part of the form which wasn't posssible without the custom JavaScript. **Put in content type notes?**
+# Moderation Workflow
 
 ## Claiming Resources
 

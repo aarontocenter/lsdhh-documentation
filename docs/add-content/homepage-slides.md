@@ -1,4 +1,4 @@
-# Homepage Slides
+# Add a Homepage Slide
 
 There are two content types that handle home page slides:   
 - Announcement: Display on the home page of the LSDHH website.

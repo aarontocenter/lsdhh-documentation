@@ -20,3 +20,7 @@ Site Wide Alert	      | Site Wide Alert links to notify of location closures, et
 Splash	              | Use splash content for pages that should have a minimal theme. this wasn't available in the Content menu. Not sure where these are created and used.  
 Webform	              | Create a new form or questionnaire accessible to users. Submission results and statistics are recorded and accessible to privileged users. Only available to site admin. 
 YouTube Video	      | Use to add a YouTube video to the site. Videos are tagged by video type so they display in the correct place. 
+
+## Additional Notes
+
+- Expand all button on the "create resource" form is a special feature built with JavaScript. To "exapnd all" had to touch every part of the form which wasn't posssible without the custom JavaScript. **Put in content type notes?**
